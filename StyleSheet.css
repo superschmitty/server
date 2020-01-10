@@ -1,0 +1,101 @@
+/******Element Selectors******/
+
+body, html{
+    margin:0;
+    padding:0;
+    min-width: 100%;
+    float:!none;
+}
+
+body {
+  background-color: #f6f4e6;
+}
+
+
+a {
+  font-family: arial;
+}
+
+h1 {
+  color:#7fa998;
+  display:block;
+  font-family: arial;
+  font-size:7vw;
+
+}
+
+h2 {
+  color: #383838;
+  font-family: arial;
+  font-size:2vw;
+}
+
+h3 {
+  color:#7fa998;
+  font-size:3.5vw;
+  font-family: arial;
+}
+
+h4 {
+  font-family: arial;
+}
+
+p {
+  font-family: arial;
+  font-size:15px;
+}
+
+tr {
+  font-family: arial;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  background-color:#f6f4e6;
+  border-width: 7px;
+  margin-top: 50px;
+  width: 5%;
+}
+
+img {
+  border-radius: 50%;
+  display:inline-block;
+}
+
+table {
+  float:  !none;
+  min-width:100%;
+  display:inline;
+
+}
+
+
+/******Class Selectors******/
+.top-container {
+  display:relative;
+  padding-top:100px;
+  text-align:center;
+
+}
+
+.skills {
+  display:relative;
+  text-align:center;
+
+}
+
+.work-experience
+{
+  display:relative;
+  text-align:center;
+
+}
+
+.links
+{
+  display:relative;
+  text-align:center;
+  margin: 50px;
+}
